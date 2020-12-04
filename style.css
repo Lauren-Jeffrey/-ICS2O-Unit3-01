@@ -1,0 +1,32 @@
+.cyan {
+  color:darkcyan;
+}
+.purple {
+  color:mediumpurple;
+}
+.fontlarge {
+  font-size: 300%
+}
+.fontsmall {
+  font-size: 70%
+}
+.list1 {
+  list-style-type: upper-roman;
+}
+.list2 {
+  list-style-type: square;
+}
+.table1 {
+  border: 1px solid black;
+  color:seagreen;
+}
+.table2 {
+  font-size: 200%;
+  border: 4px solid black;
+ }
+.pink {
+  color:pink;
+}
+.orange {
+  color:orange;
+}
